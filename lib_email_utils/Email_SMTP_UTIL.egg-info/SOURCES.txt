@@ -1,0 +1,10 @@
+README.md
+requirements.txt
+setup.cfg
+setup.py
+Email_SMTP_UTIL.egg-info/PKG-INFO
+Email_SMTP_UTIL.egg-info/SOURCES.txt
+Email_SMTP_UTIL.egg-info/dependency_links.txt
+Email_SMTP_UTIL.egg-info/requires.txt
+Email_SMTP_UTIL.egg-info/top_level.txt
+emaillib/EmailNotificationUtil.py
